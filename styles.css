@@ -1,1 +1,30 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+}
+
+#mainHeading {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.funParagraph{
+    color: green;
+}
+
+.boldHeading{
+    font-weight: bold;
+}
+
+.italianItalics{
+    font-style: italic;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
